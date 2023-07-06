@@ -1,0 +1,90 @@
+1. Homepage
+
+
+Tell them who you are and how you can solve their problems right away. Edewor Onyedika’s portfolio has an excellent example of an effective homepage.
+
+Utilizing a dark mode and contrasting font, Onyedika emphasizes his expertise and work experience, displaying clear sections for web development tools and languages he works with together with relevant social media profiles for contact.
+
+2. Skills Page
+Show your web development expertise in the skills section. Some of the technical aspects you can mention include:
+
+Coding skills. Show your understanding of programming languages such as JavaScript, HTML, CSS, and other frameworks in your tech stack. Also, include how you implement them.
+Tools proficiency. Refers to your ability to use various web development tools.
+Visual design. While most companies hire a web designer for design-related tasks, knowledge of UX and user interface (UI) design will give you a competitive edge.
+Moreover, you also need to point out your soft skills, such as:
+
+Problem-solving. Aside from coding, web developers spend a lot of time finding and fixing bugs. As a result, showing your ability to solve complex issues is a must.
+Communication. Refers to your ability to communicate and collaborate with other team members, such as web designers, search engine optimization (SEO) specialists, and other web developers.
+Adaptability. Demonstrate your willingness to learn, listing new tools and techniques you mastered.
+3. Projects Page
+The main purpose of a portfolio site is to showcase your web development work. Thus, include only your best and most unique projects to well represent your skill set. Typically, each entry should have:
+
+Short description. Briefly explain the website’s name and purpose.
+Background. Go over the timeframe, coding process, and tools used in the projects.
+Visual representation. Add screenshots or videos of the final products. If possible, include links to the actual websites.
+Remember that the projects don’t always have to be complex – a single-page site might be enough to display your skills. We’ll dive deeper into how to showcase projects later in this article.
+
+4. Resume
+Even though your portfolio website acts as a CV, it’s a good idea to write a compelling web developer resume and include it.
+
+Having one in your online portfolio will help future employers and clients quickly assess your qualities and past experiences and decide if you’re a good fit for their company.
+
+The resume should summarize your background, education, work experience, and achievements. To improve your chances of getting an interview, apply the following tips when creating your resume:
+
+Consider user experience. Implement user experience (UX) design best practices by using a simple layout, readable fonts, and concise copy to ensure a good reading experience.
+Optimize with relevant keywords. Due to the high number of applications, recruiters might use applicant tracking system (ATS) tools to filter resumes. Optimize yours with web development-related keywords to stand out.
+Inject personality. Adding some character can help you connect with hiring managers and potential clients.
+How to Build a Web Developer Portfolio Without Experience
+Compiling a portfolio when you have no prior experience requires additional steps, but that shouldn’t prevent you from making one.
+
+1. Create a Personal Brand
+Building a brand is essential for building trust and credibility as a web developer. Branding isn’t just about attractive design – it’s about communicating your values to future clients and employers.
+
+Here are some actionable tips on creating a strong personal brand:
+
+Understand the market. Conduct market research to identify your audience’s goals, characteristics, and challenges. Moreover, analyze the competitors to find gaps you can fill.
+Develop unique selling points. Based on the research, determine what sets you apart from other developers. Then, explain how your services can provide solutions to the audience’s problems.
+Promote your brand. Showcase your web development expertise through various platforms, such as blogs, YouTube videos, podcasts, and social media networks.
+Build a positive reputation. If you’ve worked with clients before, include their testimonials in your portfolio – social proof is a powerful marketing strategy.
+Maintain consistency. Use the same username, avatar, and color palette across all platforms to create a strong and easily recognizable brand.
+Pro Tip
+Domain name is an essential element of your branding. Consider registering a .dev domain to highlight your area of expertise.
+
+Gift Egwuenu’s portfolio is a great branding example.
+
+The Speaking page on Gift Egwuenu website
+Gift showcases her expertise by exploring different platforms. Her portfolio website has a blog section, where she posts web development tutorials and career tips. She also shares her experience as a speaker in various tech events both on the site and on her YouTube channel.
+
+2. Take Online Courses
+Attending online courses and obtaining web development certifications is a great way to show you’re constantly evolving and keeping up with industry trends.
+
+A platform like YouTube gives you a good starting point, as you can access many web development videos for free.
+
+However, if you prefer structured courses, consider learning platforms such as Coursera and Udemy.
+
+Coursera, for example, offers the HTML, CSS, and Javascript for Web Developers course for $79, which includes:
+
+The fundamentals of web programming languages
+Implementing HTML and CSS into web pages
+Coding web pages to fit different size screens
+Building functional web applications using JavaScript
+The HTML, CSS, and Javascript for Web Developers course on Coursera
+After completing the lessons, you’ll get a web developer certificate, giving you more credibility when applying for a developer role. It’s also possible to access the learning materials for free, but you won’t be able to access the graded assignments and receive a certificate.
+
+Another recommendation is the Ultimate Web Designer and Web Developer course from Udemy.
+
+Available for $18.99, the course includes lessons on visual design, HTML, CSS, and even career development. After finishing the course, apply what you learned and enhance your portfolio design.
+
+3. Look for New Web Development Projects
+After acquiring new skills, start working on real projects to gain work experience. A great way to do that is to look for job opportunities on the best freelance websites, such as Fiverr and Upwork.
+
+On Upwork, you will need to create a profile first. Then, type “web development” on the search box to find available jobs in the field.
+
+The job results for "web development" on Upwork
+Click on any job listing to find detailed information such as the hourly rate, required technical skills, incoming development proposals, and clients’ ratings. To apply for the project, click Submit a Proposal.
+
+Another way of obtaining personal projects is offering to create free websites for charity or non-profit organizations in your area. These projects enable you to build a web developer portfolio and provide valuable experience dealing with clients.
+
+Alternatively, create example websites for nonexistent clients. For beginners, we recommend making a website using a content management system (CMS) like WordPress, as it’s flexible and has a shallow learning curve.
+
+Once you gain more experience, you can try coding websites from scratch.
